@@ -51,11 +51,11 @@ After make: cc -Wall -Wextra -Werror main.c libftprintf.a -o test
 
 Then execute ./test
 
-##Linux vs Windows note
+## Linux vs Windows note
 
 Pointer formatting (%p) can differ between platforms (MinGW/MSVCRT vs glibc).
 If you want Linux-like output and comparisons, test inside Ubuntu (WSL) or a Linux environment.
 
-##License
+## License
 
 This repository is for educational purposes (42 project).
