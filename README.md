@@ -35,13 +35,13 @@ Mandatory conversions implemented:
 
 Build the static library:
 
-  make
+make
 
 Clean build artifacts:
 
-  make clean     # removes .o files
-  make fclean    # removes .o files and libftprintf.a
-  make re        # rebuild everything
+make clean     # removes .o files
+make fclean    # removes .o files and libftprintf.a
+make re        # rebuild everything
 
 ## Usage
 
